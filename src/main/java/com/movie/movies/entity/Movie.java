@@ -1,7 +1,7 @@
 package com.movie.movies.entity;
 
-import jakarta.persistence.*;
 
+import javax.persistence.*;
 
 @Entity
 @Table(name = "movies")
